@@ -1,0 +1,122 @@
+html {
+  font: 100%/1.15 ;
+}
+
+body
+ {max-width: 50em;
+margin: 0 auto ;
+display: block;
+width: 80%; }
+
+
+
+h1 {
+  background:#f9c;
+  color:#fff;
+  text-align:center;
+font-family: georgia;
+padding: 1em 3em; }
+
+h2 {font-family:georgia;
+background: #f9c;
+color:#fff;
+padding:  0.5em ; }
+
+h3{background: #cff;
+  font-family:georgia;
+  text-align:center;
+  text-transform:uppercase;
+  color: #555;
+  padding: 0.5em ;
+  border: 2px dashed #777;
+}
+
+
+
+
+p {line-height:1.3em;}
+
+
+
+section {text-align:center;
+font-family:georgia;
+margin: 2em;
+padding: 1em 1em;
+font-size:0.85em;}
+
+h5 {font-family: serif;
+text-align: center;  }
+
+header.discription {font-family: serif;
+padding: 1em 1em; }
+
+h6 {background: #fdd;
+padding: 1em 0.5em;
+  font-family: serif;
+margin: 2em 2em;
+border: 3px dashed #fff;
+line-height: 1.4em; }
+
+header {
+  margin: auto;
+ }
+
+img.header {max-width: 7em;
+  display:block;
+margin: auto;
+}
+
+img.bunny {max-width: 100%;
+display: block;
+margin: auto;}
+
+img.mouse {max-width: 100%;
+display: block;
+margin: auto;}
+
+img.wvd {max-width: 50%;
+display: block;
+margin: auto;
+}
+
+nav a {color: #838;
+text-decoration:none;
+display: center;
+font-size: 1.1em}
+
+div.quote
+ {
+  font-family: georgia;
+  text-align:right;
+
+background: #fdd;
+border: 5px dashed #fff; }
+div.back_to_top {font-size: 1.4em;
+text-align:center;}
+
+nav ul {
+
+  overflow: hidden;
+
+}
+
+
+   nav li{
+
+
+   display: inline-block;
+   text-align: center;
+   list-style: none;
+   float: center;
+  margin: 0 1em;
+font-size: 1.2em;
+line-height: 2em;}
+
+p {font-family: georgia;
+;}
+
+ul.bottom {color: #603;}
+
+blockquote {margin: 1em 1em ; }
+
+@media (min-width: 48em)
